@@ -8,13 +8,13 @@
     "code_of_conduct": "https://remblock.io/code-of-conduct",
     "ownership_disclosure": "https://remblock.io/ownership-disclosure",
     "branding":{
-      "logo_256": "https://bp.remblock.io/images/remblock_logo_256.png",
-      "logo_svg": "https://bp.remblock.io/images/remblock_logo_white_1024.svg",
-      "logo_svg": "https://bp.remblock.io/images/remblock_logo_black_1024.svg",
-      "logo_1024": "https://bp.remblock.io/images/remblock_logo_white_1024.png",
-      "logo_1024": "https://bp.remblock.io/images/remblock_logo_black_1024.png",
-      "logo_4000": "https://bp.remblock.io/images/remblock_logo_white_4000.png",
-      "logo_4000": "https://bp.remblock.io/images/remblock_logo_black_4000.png"
+      "logo_256": "https://bp.remblock.io/images/remblock_logo_symbol_256.png",
+      "logo_svg": "https://bp.remblock.io/images/remblock_logo_white_font_1024.svg",
+      "logo_svg": "https://bp.remblock.io/images/remblock_logo_black_font_1024.svg",
+      "logo_1024": "https://bp.remblock.io/images/remblock_logo_white_font_1024.png",
+      "logo_1024": "https://bp.remblock.io/images/remblock_logo_black_font_1024.png",
+      "logo_4000": "https://bp.remblock.io/images/remblock_logo_white_font_4000.png",
+      "logo_4000": "https://bp.remblock.io/images/remblock_logo_black_font_4000.png"
     },
     "location": {
       "name": "Sydney",
@@ -49,7 +49,7 @@
         "longitude": 151.209900
       },
       "node_type": "seed",
-      "p2p_endpoint": "p2p.remblock.io:9876"
+      "p2p_endpoint": "rem.remblock.io:9876"
     },
     {
       "location": {
@@ -59,8 +59,8 @@
         "longitude": 151.209900
       },
       "node_type": "full",
-      "api_endpoint": "http://api.remblock.io",
-      "ssl_endpoint": "https://api.remblock.io"
+      "api_endpoint": "http://rem.remblock.io",
+      "ssl_endpoint": "https://rem.remblock.io"
     }
   ]
 }
